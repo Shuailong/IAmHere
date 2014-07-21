@@ -11,12 +11,12 @@ Deveploped mainly for freshman of ZJU.
 
 Author
 -------
-- **Shuailong**
+- *Shuailong*
 - *aiko33*
-- *Elaine11*
-- *lps1994*
 - *Diephen*
+- *Elaine11*
 - *Xianerrrrr*
+- *lps1994*
 
 Features
 --------
