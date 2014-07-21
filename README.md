@@ -11,15 +11,15 @@ Deveploped mainly for freshman of ZJU.
 
 Author
 -------
--Shuailong
--aiko33
--Elaine11
--lps1994
--Diephen
--Xianerrrrr
+- **Shuailong**
+- *aiko33*
+- *Elaine11*
+- *lps1994*
+- *Diephen*
+- *Xianerrrrr*
 
 Features
 --------
--3D adventure game.
--Q style.
--Multilevel.
+- 3D adventure game.
+- Q style.
+- Multilevel.
