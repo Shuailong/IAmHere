@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: aec7fb1fb8f83b14ebd4b0717632392d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: kaixin:group7
+    100002: kaixin:group7 1
+    100004: kaixin:group8
+    100006: kaixin:group9
+    100008: kaixin:pasted__nurbsPlane1
+    100010: kaixin:pasted__nurbsPlane1 1
+    100012: kaixin:pasted__nurbsPlane1 2
+    100014: kaixin:pasted__nurbsPlane1 3
+    100016: kaixin:pasted__pasted__nurbsPlane1
+    100018: kaixin:pasted__pasted__nurbsPlane1 1
+    100020: kaixin:pasted__pasted__nurbsPlane1 2
+    100022: kaixin:pasted__pasted__nurbsPlane1 3
+    100024: kaixin:pasted__pasted__nurbsPlane2
+    100026: kaixin:pasted__pasted__nurbsPlane2 1
+    100028: kaixin:pasted__pasted__nurbsPlane2 2
+    100030: kaixin:pasted__pasted__nurbsPlane2 3
+    100032: kaixin:pasted__pCylinder2
+    100034: kaixin:pasted__pCylinder2 1
+    100036: kaixin:pasted__pCylinder2 2
+    100038: kaixin:pasted__pCylinder2 3
+    100040: kaixin:pCylinder3
+    100042: kaixin:polySurface3
+    100044: kaixin:polySurface4
+    100046: kaixin:pSphere5
+    100048: kaixin:pSphere6
+    100050: kaixin:transform10
+    100052: kaixin:transform10 1
+    100054: kaixin:transform11
+    100056: kaixin:transform12
+    100058: kaixin:transform5
+    100060: kaixin:transform6
+    100062: kaixin:transform7
+    100064: kaixin:transform7 1
+    100066: kaixin:transform8
+    100068: kaixin:transform8 1
+    100070: kaixin:transform9
+    100072: kaixin:transform9 1
+    100074: //RootNode
+    400000: kaixin:group7
+    400002: kaixin:group7 1
+    400004: kaixin:group8
+    400006: kaixin:group9
+    400008: kaixin:pasted__nurbsPlane1
+    400010: kaixin:pasted__nurbsPlane1 1
+    400012: kaixin:pasted__nurbsPlane1 2
+    400014: kaixin:pasted__nurbsPlane1 3
+    400016: kaixin:pasted__pasted__nurbsPlane1
+    400018: kaixin:pasted__pasted__nurbsPlane1 1
+    400020: kaixin:pasted__pasted__nurbsPlane1 2
+    400022: kaixin:pasted__pasted__nurbsPlane1 3
+    400024: kaixin:pasted__pasted__nurbsPlane2
+    400026: kaixin:pasted__pasted__nurbsPlane2 1
+    400028: kaixin:pasted__pasted__nurbsPlane2 2
+    400030: kaixin:pasted__pasted__nurbsPlane2 3
+    400032: kaixin:pasted__pCylinder2
+    400034: kaixin:pasted__pCylinder2 1
+    400036: kaixin:pasted__pCylinder2 2
+    400038: kaixin:pasted__pCylinder2 3
+    400040: kaixin:pCylinder3
+    400042: kaixin:polySurface3
+    400044: kaixin:polySurface4
+    400046: kaixin:pSphere5
+    400048: kaixin:pSphere6
+    400050: kaixin:transform10
+    400052: kaixin:transform10 1
+    400054: kaixin:transform11
+    400056: kaixin:transform12
+    400058: kaixin:transform5
+    400060: kaixin:transform6
+    400062: kaixin:transform7
+    400064: kaixin:transform7 1
+    400066: kaixin:transform8
+    400068: kaixin:transform8 1
+    400070: kaixin:transform9
+    400072: kaixin:transform9 1
+    400074: //RootNode
+    2300000: kaixin:pasted__pCylinder2
+    2300002: kaixin:pasted__pCylinder2 1
+    2300004: kaixin:pasted__pCylinder2 2
+    2300006: kaixin:pasted__pCylinder2 3
+    2300008: kaixin:polySurface4
+    3300000: kaixin:pasted__pCylinder2
+    3300002: kaixin:pasted__pCylinder2 1
+    3300004: kaixin:pasted__pCylinder2 2
+    3300006: kaixin:pasted__pCylinder2 3
+    3300008: kaixin:polySurface4
+    4300000: kaixin:pasted__pCylinder2
+    4300002: kaixin:pasted__pCylinder2
+    4300004: kaixin:pasted__pCylinder2
+    4300006: kaixin:pasted__pCylinder2
+    4300008: kaixin:polySurface4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
