@@ -38,6 +38,18 @@ ModelImporter:
     100064: menmenmen
     100066: qianbolimen
     100068: qianmenzhu
+    100070: bolimen_back
+    100072: bolimen_front
+    100074: dingliang_you
+    100076: dingliang_you1
+    100078: dingliang_youxia
+    100080: ear
+    100082: men
+    100084: menzhu_back
+    100086: menzhu_front
+    100088: polySurface800
+    100090: polySurface801
+    100092: stair
     400000: //RootNode
     400002: bolimen
     400004: hengliang
@@ -73,6 +85,18 @@ ModelImporter:
     400064: menmenmen
     400066: qianbolimen
     400068: qianmenzhu
+    400070: bolimen_back
+    400072: bolimen_front
+    400074: dingliang_you
+    400076: dingliang_you1
+    400078: dingliang_youxia
+    400080: ear
+    400082: men
+    400084: menzhu_back
+    400086: menzhu_front
+    400088: polySurface800
+    400090: polySurface801
+    400092: stair
     2300000: //RootNode
     2300002: bolimen
     2300004: hengliang
@@ -104,6 +128,18 @@ ModelImporter:
     2300056: menmenmen
     2300058: qianbolimen
     2300060: qianmenzhu
+    2300062: bolimen_back
+    2300064: bolimen_front
+    2300066: dingliang_you
+    2300068: dingliang_you1
+    2300070: dingliang_youxia
+    2300072: ear
+    2300074: men
+    2300076: menzhu_back
+    2300078: menzhu_front
+    2300080: polySurface800
+    2300082: polySurface801
+    2300084: stair
     3300000: //RootNode
     3300002: bolimen
     3300004: hengliang
@@ -135,6 +171,18 @@ ModelImporter:
     3300056: menmenmen
     3300058: qianbolimen
     3300060: qianmenzhu
+    3300062: bolimen_back
+    3300064: bolimen_front
+    3300066: dingliang_you
+    3300068: dingliang_you1
+    3300070: dingliang_youxia
+    3300072: ear
+    3300074: men
+    3300076: menzhu_back
+    3300078: menzhu_front
+    3300080: polySurface800
+    3300082: polySurface801
+    3300084: stair
     4300000: polySurface803
     4300002: qiuxing
     4300004: yueyalou
@@ -167,6 +215,18 @@ ModelImporter:
     4300058: qianmenzhu
     4300060: qianbolimen
     4300062: houbolimen
+    4300064: men
+    4300066: dingliang_you
+    4300068: dingliang_youxia
+    4300070: polySurface800
+    4300072: bolimen_back
+    4300074: bolimen_front
+    4300076: menzhu_front
+    4300078: menzhu_back
+    4300080: stair
+    4300082: ear
+    4300084: polySurface801
+    4300086: dingliang_you1
     9500000: //RootNode
   materials:
     importMaterials: 1
